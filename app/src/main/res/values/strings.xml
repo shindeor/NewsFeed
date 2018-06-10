@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="no_connection">No Internet Connection.\nConnect and try again!</string>
+    <string name="no_articles">Oops, we couldn\'t find any articles.</string>
+    <string name="settings_title">Settings</string>
+    <string name="newsfeed_settings">News Feed Settings</string>
+    <string name="settings_keyword_title">Search Keyword</string>
+    <string name="settings_keyword_default"></string>
+    <string name="settings_keyword_key" translatable="false">keyword</string>
+    <string name="settings_filter_post_type">Filter by post type:</string>
+    <string name="settings_filter_category_label">Category</string>
+    <string name="settings_filter_category_key" translatable="false">section</string>
+    <string name="settings_filter_category_default">All</string>
+    <string name="settings_filter_category_default_value">all</string>
+    <string name="settings_filter_category_business_label">Business</string>
+    <string name="settings_filter_category_business_value" translatable="false">business</string>
+    <string name="settings_filter_category_culture_label">Culture</string>
+    <string name="settings_filter_category_culture_value" translatable="false">culture</string>
+    <string name="settings_filter_category_environment_label">Environment</string>
+    <string name="settings_filter_category_environment_value" translatable="false">environment</string>
+    <string name="settings_filter_category_lifeandstyle_label">Life &amp; Style</string>
+    <string name="settings_filter_category_lifeandstyle_value" translatable="false">lifeandstyle</string>
+    <string name="settings_filter_category_media_label">Media</string>
+    <string name="settings_filter_category_media_value" translatable="false">media</string>
+    <string name="settings_filter_category_news_label">News</string>
+    <string name="settings_filter_category_news_value" translatable="false">news</string>
+    <string name="settings_filter_category_politics_label">Politics</string>
+    <string name="settings_filter_category_politics_value" translatable="false">politics</string>
+    <string name="settings_filter_category_sport_label">Sport</string>
+    <string name="settings_filter_category_sport_value" translatable="false">sport</string>
+    <string name="settings_filter_category_technology_label">Technology</string>
+    <string name="settings_filter_category_technology_value" translatable="false">technology</string>
+    <string name="settings_filter_category_travel_label">Travel</string>
+    <string name="settings_filter_category_travel_value" translatable="false">travel</string>
+</resources>
